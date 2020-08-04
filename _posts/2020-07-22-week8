@@ -1,0 +1,9 @@
+---
+layout: post
+title: Week 8
+---
+This Wednesday we had another education meeting. The day before I worked on making a draft for the curriculum of the ROB102 course by looking at other similar intro courses. I also made a list of computational objectives that the students will need to cover in order to be able to start coding and learning about algorithms. In the education meeting we also discussed the need to make both courses as inclusive as possible. POC and women in STEM are often times scared away more easily than (white) men. The course needs to be inclusive to all those people, including all students who have never coded before in their life. We need to make sure that these students get engaged in the course and not scared away, because if students get scared and afraid they won’t be able to successfully complete the course they are not likely to pursue a major in the field. 
+
+During the education meeting we also discussed some possible assignments the students could do during their ROB102 course. One of these is a wall-following exercise. The students should be able to make the robot follow a wall made of blocks by applying motor commands as a function of the IR sensor reading. We would need a simulation for this which another girl on my research team and I were in charge of creating. We already had a big part of the simulation done, but we the only thing really necessary was a distance sensor. The backend will use Bresenham’s line algorithm to create a line that will serve as the sensor in the frontend and the simulation. The backend will send a distance to the frontend and with that distance a line will be created using trigonometry. 
+
+I also spent this week looking into LCM. One girl on my research team has been working on LCM for a while and I thought it would be useful to also know something about it, seeing that our WebSocket construction will be turned into an LCM construction soon. 
