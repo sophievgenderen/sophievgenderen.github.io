@@ -18,7 +18,7 @@ My mentor is Professor Odest Chadwicke Jenkins, who is a Computer Science facult
 
 This summer I am working in Professor Jenkins' research group and the project we will be working on will explore ways to teach building  an omni-drive robot platform and its autonomous pathfinding to first-year undergraduates. During the summer, I will be working on the programming for pathfinding for the project.
 
-[My Final Report](files/DREU final report def.pdf)
+[My Final Report](https://github.com/sophievgenderen/sophievgenderen.github.io/blob/master/files/DREU%20final%20report%20def.pdf)
 
 ## My Blog
 
